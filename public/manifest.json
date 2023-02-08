@@ -1,0 +1,8 @@
+{
+  "name": "Pomodoro Timer",
+  "api": "1.0.0",
+  "id": "1205149579472099417",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "ui": "index.html"
+}

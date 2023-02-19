@@ -9,6 +9,8 @@
 time effectively! 🍅
     <br />
     <br />
+    <a href="https://www.figma.com/community/plugin/1205149579472099417/Pomodoro-Timer">Figma Plugin</a>
+    ·
     <a href="https://github.com/lukasvarkalis/figma-plugin-pomodoro-timer/pulls">Report Bug</a>
     ·
     <a href="https://github.com/lukasvarkalis/figma-plugin-pomodoro-timer/issues">Request Feature</a>
